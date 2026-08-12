@@ -114,6 +114,6 @@ Abre [http://localhost:4200](http://localhost:4200) — la app se recarga autom�
 4. Sube la rama: `git push origin feature/nombre-feature`.
 5. Abre un Pull Request.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso privado / educativo.
