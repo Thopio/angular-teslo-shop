@@ -28,7 +28,7 @@ E-commerce construido con **Angular 22** (standalone components, signals, `rxRes
 | Testing | Vitest + Karma/Jasmine |
 | Routing | Lazy loading por feature (`auth`, `admin-dashboard`, `store-front`) |
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 src/app/
